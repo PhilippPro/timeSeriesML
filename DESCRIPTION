@@ -1,0 +1,11 @@
+Package: timeSeriesML
+Title: Modern machine learning methods for time series.
+Version: 0.0.1
+Authors@R: 
+    person("Philipp", "Probst", , "philipp_probst@gmx.de", role = c("aut", "cre"))
+Description: With this R-package modern machine learning methods can be applied on time series.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
